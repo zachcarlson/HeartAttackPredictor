@@ -10,7 +10,7 @@ This repository was created for the DSCI 631 course at Drexel University, Applie
 - `HeartAttackPredictor.ipynb` - Main code that predicts heart attack risk using Machine Learning techniques.
 - `Folder /data` - Contains all data files 
   - `heart.csv` - Heart Attack data (source in **Project Overview**)
-  -  
+
 ## Reason for Project:
 There are several factors that doctors must consider quickly when assessing a patient's risk for heart attack.  These include: age, sex, chest pain type, resting blood pressure, cholesterol and more.  Creating a machine learning algorithm to detect patterns and more accurately predict risk will save lives and save time for doctors to focus on other patients.
 
