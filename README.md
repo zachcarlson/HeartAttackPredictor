@@ -16,7 +16,7 @@ This repository was created for the DSCI 631 course at Drexel University, Applie
   - `presentation_background.jpg` - Background image used on first slide of presentation
 - `Folder /.ipynb_checkpoints` - Contains checkpoint saves of `HeartAttackPredictor.ipynb`.
 - `Folder /images` - Contains all images downloaded from Notebook.
-- 
+
 ## Reason for Project:
 There are several factors that doctors must consider quickly when assessing a patient's risk for heart attack.  These include: age, sex, chest pain type, resting blood pressure, cholesterol and more.  Creating a machine learning algorithm to detect patterns and more accurately predict risk will save lives and save time for doctors to focus on other patients.
 
