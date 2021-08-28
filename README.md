@@ -12,7 +12,7 @@ This repository was created for the DSCI 631 course at Drexel University, Applie
   - `heart.csv` - Heart Attack data (source in **Project Overview**)
 - `Folder /documents` - Contains all miscellaneous documents
   - `Project Proposal.docx` - Project proposal word document, required for class
-  - `DSCI 631 Final Project Presentation` - PowerPoint presentation slides of project
+  - `DSCI 631 Final Project Presentation.pptx` - PowerPoint presentation slides of project
   - `presentation_background.jpg` - Background image used on first slide of presentation
 - `Folder /.ipynb_checkpoints` - Contains checkpoint saves of `HeartAttackPredictor.ipynb`.
 - `Folder /images` - Contains all images downloaded from Notebook.
