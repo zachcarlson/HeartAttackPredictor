@@ -43,8 +43,6 @@ Our team consisted of the following individuals:
 
 All of the code in this project needs to be opened with the Jupyter notebook environment. We recommend using [Anaconda](https://www.anaconda.com/products/individual) to help with Jupyter notebook.  Additionally, this code can be run in Google Colab or your preferred Python coding environment, assuming folder organization remains unchanged.
 
-**Ensure to change `
-
 ## Known Limitations of Project:
 
 - **This Machine Learning (ML) pipeline does not address ANNs**, as it was not in-scope for the project and there was not time to implement.  
